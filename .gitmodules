@@ -1,0 +1,3 @@
+[submodule "bit_bang_c_uart_driver"]
+	path = bit_bang_c_uart_driver
+	url = https://github.com/codedraughtsman/bit_bang_c_uart.git
